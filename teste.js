@@ -1,3 +1,3 @@
 function Hello(){
-    console.log('hello world this is git');
+    console.log('hello world this is github');
 }
